@@ -1,0 +1,12 @@
+# Do not upload the dataset
+bicycle_data.csv
+
+# Python-generated files
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Local environments and system files
+.venv/
+.DS_Store
+.ipynb_checkpoints/
